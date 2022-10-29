@@ -1,0 +1,23 @@
+body {
+  background-color: #BAE7EE;
+}
+
+hr {
+  border-style: none;
+  border-top-style: double;
+  border-width: 5px;
+  border-color: white;
+  width: 95%;
+}
+h1
+{
+  font-style: italic;
+  color: #60868C;
+
+h2
+
+  {
+    font-style: oblique;
+    font-style: italic;
+    color: black;
+  }
